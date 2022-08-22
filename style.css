@@ -40,3 +40,23 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.two-type-developer {
+    display: flex;
+    padding-left: 5%;
+
+}
+
+.two-type-developer p {
+    font-weight: 500;
+    justify-content: space-between;
+    color: orange;
+
+}
+
+.experience-item {
+    width: 100%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 10px 10px black;
+    border-left: 5px solid red;
+}
